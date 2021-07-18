@@ -109,8 +109,8 @@ export const useStyles = makeStyles((theme) => ({
   drawer: {
     width: "250px",
     height: "100vh",
-    backgroundColor: `${Theme.colors.primary1} !important`,
-    color: Theme.colors.base2,
+    backgroundColor: `${Theme.colors.navbarColor} !important`,
+    color: Theme.colors.navbarTextColor,
   },
   logoImg: {
     width : "50px",
