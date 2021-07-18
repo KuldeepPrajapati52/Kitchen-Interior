@@ -32,7 +32,7 @@ export default function DrawerComponent({
           {navLinks.map((item, i) => (
             <ListItem key={i} component={Button} onClick={handleDrawerOpen}>
               <Link to={`${item.id}`}>
-                <ListItemText style={{ textAlign: "center", color: "black" }}>
+                <ListItemText style={{ textAlign: "center", color: Theme.colors.navbarColor }}>
                   {item.label}
                 </ListItemText>
               </Link>
