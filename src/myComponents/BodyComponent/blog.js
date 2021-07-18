@@ -68,7 +68,7 @@ export default function Blog() {
                                                 Kuldeep Prajapati
                                             </Typography>
                                             <Typography variant="body2" color="textSecondary" component="p">
-                                            “We have very busy schedules and didn’t have time to spare but the entire Livspace team was very accomodating.”
+                                            “We have very busy schedules and didn’t have time to spare but the entire The Paradise Kitchen team was very accomodating.”
                                             </Typography>
                                         </CardContent>
                                     </CardActionArea>
@@ -116,7 +116,7 @@ export default function Blog() {
                                                 Renu Sharma
                                             </Typography>
                                             <Typography variant="body2" color="textSecondary" component="p">
-                                            “We’d visualised a minimalist concept like this and Livspace successfully delivered it.”
+                                            “We’d visualised a minimalist concept like this and The Paradise Kitchen successfully delivered it.”
                                             </Typography>
                                         </CardContent>
                                     </CardActionArea>
