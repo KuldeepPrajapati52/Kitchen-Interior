@@ -20,7 +20,7 @@ export default function Navbar({ navLinks, handleDrawerOpen }) {
     <AppBar
       className={classes.navbar}
       position='fixed'
-      style={{ backgroundColor: Theme.colors.navbarColor }}>
+      style={{ backgroundColor: Theme.colors.navbarTextColor }}>
       <Toolbar style={{ display: "flex", justifyContent: "space-between" }}>
         <Typography variant='h5' component='h6'>
           {"The Paradise Kitchen"}
