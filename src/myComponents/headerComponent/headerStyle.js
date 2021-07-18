@@ -21,7 +21,7 @@ export const useStyles = makeStyles((theme) => ({
     alignItems: "center",
   },
   navbar: {
-    backgroundColor: Theme.colors.primary1,
+    backgroundColor: Theme.colors.navbarColor,
     color: Theme.colors.navbarTextColor,
 
   },
